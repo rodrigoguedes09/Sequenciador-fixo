@@ -81,6 +81,11 @@ A aplicação possui uma interface com:
 A imagem abaixo mostra como ficou a interface da aplicação com esse exemplo:
 ![image](https://github.com/user-attachments/assets/b9c4f1e7-1eae-4a15-9d9e-7664265939bb)
 
+## Outro exemplo de funcionamento da aplicação num geral
+
+![20250703-1518-13 0343884-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e345825d-1081-4113-baa3-60c7dd7b8b17)
+
+
 
 ## Autores
 [Rodrio Guedes, João Pedro Tavares] - Engenharia de Computação - [UFSC] - [2025]

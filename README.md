@@ -82,22 +82,5 @@ A imagem abaixo mostra como ficou a interface da aplicação com esse exemplo:
 ![image](https://github.com/user-attachments/assets/b9c4f1e7-1eae-4a15-9d9e-7664265939bb)
 
 
-## Solução de Problemas
-Se encontrar erros de conexão:
-1. Verifique se o servidor está rodando
-2. Confira se nenhum outro programa está usando a porta 5000
-3. No Windows, desative o firewall temporariamente para testes
-
-## Conceitos Demonstrados
-1. **Ordenação Total**: Garantia de mesma ordem de mensagens para todos processos
-2. **Exclusão Mútua**: Proteção do contador de sequência com locks
-3. **Tolerância a Falhas**: Reconexão automática em caso de queda
-4. **Transparência de Acesso**: Os clientes não precisam saber como a ordenação é feita
-
-## Observações
-- Projeto desenvolvido para disciplina de Sistemas Distribuídos
-- Código com comentários explicativos para facilitar o entendimento
-- Pode ser expandido para incluir eleição de líder ou replicação
-
 ## Autores
-[Nome do Aluno 1, Nome do Aluno 2, ...] - Engenharia de Computação - [Nome da Universidade] - [Ano]
+[Rodrio Guedes, João Pedro Tavares] - Engenharia de Computação - [UFSC] - [2025]
